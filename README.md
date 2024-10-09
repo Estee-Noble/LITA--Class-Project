@@ -25,7 +25,7 @@ The sales data will include the following columns:
 
 
 ### Tools Used
-- Microsoft Excel for data cleaning 
+- Microsoft Excel  
 - Data Cleaning
 - Data Analysis
 - DataVisualization
