@@ -26,12 +26,15 @@ The sales data will include the following columns:
 
 
 
-### Tools Used
+### Tools Used and Method 
 - Microsoft Excel  
 - Data Cleaning
 - Data Analysis
 - DataVisualization
 
+Data Analysis: The data was analyzed using Microsoft Excel, utilizing Pivot Tables to organize, summarize, and filter the data for easier interpretation.
+
+Data Visualization: Bar Charts were created in Excel to visually represent the key insights.
 
 ### Key Metrics and Visualizations:The report includes various visual representations, such as charts and graphs, to depict revenue trends, units sold distribution, and comparative performance metrics. These visual tools enhance understanding and facilitate data-driven decision-making
 
