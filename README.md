@@ -39,6 +39,54 @@ Data Visualization: Bar Charts were created in Excel to visually represent the k
 ### Key Metrics and Visualizations:The report includes various visual representations, such as charts and graphs, to depict revenue trends, units sold distribution, and comparative performance metrics. These visual tools enhance understanding and facilitate data-driven decision-making
 
 
+# Visual Analysis & Inferences
+1. Revenue by Region 
+pivot table.
+
+
+Region filter for year 2014
+
+
+
+Region filter for year 2015
+
+
+
+Inference:
+Overall Revenue Trends:
+
+There is a noticeable decline in total revenue across most regions from 2014 to 2015. This suggests potential challenges in sales performance or market conditions affecting revenue generation.
+Regional Performance:
+
+North East: The North East region had the highest revenue in 2014 but shows a significant drop in 2015. This decline may indicate market saturation or increased competition.
+South West: This region also shows a decrease in revenue, although it remains one of the higher-performing areas.
+South South: The revenue for this region appears to have decreased slightly, indicating a potential area of concern.
+South East: Similar to the South South, this region also shows a decline in revenue, which could suggest challenges in maintaining sales.
+North West and North Central: Both regions show lower revenue figures, with North Central consistently trailing behind other regions.
+Revenue Distribution:
+
+The bar charts illustrate a clear drop in revenue for 2015 compared to 2014, indicating that while the North East led in 2014, the gap between regions has narrowed, suggesting that overall market conditions may be affecting all regions similarly.
+Strategic Implications:
+
+The decline in revenue across regions indicates a need for a strategic reassessment. The company may need to investigate the causes of this decline, such as changes in consumer behavior, economic factors, or competitive pressures.
+Focused marketing efforts and customer engagement strategies may be necessary to revitalize sales in declining regions, particularly in the North East and South West.
+
+
+
+2.  Region by Unit Sold 
+pivot table 
+
+
+
+Unit Sold filter for year 2014
+
+
+
+
+Unit Sold filter for year 2015
+
+
+
 
 
 
