@@ -12,7 +12,7 @@ This is where i documented my class work project while learning Data Analysis wi
 
 
 ### Data Sources
-The sales data will include the following columns:
+####The datasets include the following columns:
 1. **Trade Date**: The date on which the sale occurred.
 2. **Fiscal Period**: The fiscal period for financial reporting.
 3. **Region**: The geographic area where sales were made.
@@ -39,8 +39,8 @@ Data Visualization: Bar Charts were created in Excel to visually represent the k
 ### Key Metrics and Visualizations:The report includes various visual representations, such as charts and graphs, to depict revenue trends, units sold distribution, and comparative performance metrics. These visual tools enhance understanding and facilitate data-driven decision-making
 
 
-# Visual Analysis & Inferences
-1. Revenue by Region 
+## Visual Analysis & Inferences
+## 1. Revenue by Region 
 pivot table.
 
 
@@ -73,7 +73,7 @@ Focused marketing efforts and customer engagement strategies may be necessary to
 
 
 
-2.  Region by Unit Sold 
+## 2.  Region by Unit Sold 
 pivot table 
 
 
@@ -87,6 +87,19 @@ Unit Sold filter for year 2015
 
 
 
+## Inference:
+Overall Sales Growth: There is a noticeable increase in total units sold from 2014 to 2015. The North East region, while still leading, shows a decrease in the number of units sold compared to the previous year, indicating a potential saturation in that market.
+
+Regional Performance Changes:
+
+North East: In 2014, the North East accounted for 27% of total sales, but this dropped to 26% in 2015. This suggests a slight decline in its dominance.
+South West: The South West region has improved its performance, increasing its share from 21% to 22%. This indicates a positive trend and potential for further growth.
+North Central and North West: Both regions continue to show low sales figures, indicating a need for targeted strategies to boost performance in these areas.
+Market Dynamics: The South East and South South regions maintained a steady performance, with the South East holding at 16% and the South South slightly increasing its share. This stability may suggest a consistent demand in these regions.
+
+Sales Distribution: The pie chart reflects a more balanced distribution of sales across regions in 2015 compared to 2014. The North East's slight decline in percentage share indicates that other regions are gaining traction, which could be a sign of shifting consumer preferences or effective marketing strategies in those areas.
+
+Strategic Implications: The data suggests that while the North East remains a key market, the company should consider investing more resources into the South West and potentially explore opportunities in the North Central and North West regions to enhance overall sales performance.
 
 
 
