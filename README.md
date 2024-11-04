@@ -1,5 +1,5 @@
 # LITA-Project
-This is where i documented my class work project while learning Data Analysis with the Incubator Hub.
+#### This is where i documented my class work project while learning Data Analysis with the Incubator Hub.
 ---
 
 
@@ -12,7 +12,7 @@ This is where i documented my class work project while learning Data Analysis wi
 
 
 ### Data Sources
-####The datasets include the following columns:
+#### The datasets include the following columns:
 1. **Trade Date**: The date on which the sale occurred.
 2. **Fiscal Period**: The fiscal period for financial reporting.
 3. **Region**: The geographic area where sales were made.
@@ -40,8 +40,8 @@ This is where i documented my class work project while learning Data Analysis wi
 
 
 ## Visual Analysis & Inferences
-## 1. Revenue by Region 
-pivot table.
+### 1. Revenue by Region 
+### Pivot Table
 
 
 Region filter for year 2014
