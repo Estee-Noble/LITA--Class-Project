@@ -1,10 +1,12 @@
 # LITA-Project
 This is where i documented my class work project while learning Data Analysis with the Incubator Hub.
-
 ---
-### **Project title: Sales Analysis Report**
+
+
+## Project title: Sales Analysis Report
 
 ### Project Overview: This sales report analysis provides a comprehensive examination of sales performance across multiple dimensions, including region, market, store, line of business, model, day category, trade date, and fiscal period.
+
 ### Project Objective: To analyze and visualize sales performance across several dimensions: region, market, store, line of business, model, day category, trade date, fiscal period, revenue, and units sold. This report will help identify trends, evaluate performance gaps, and uncover  opportunities for growth across various product lines and timeframes.
  
 
