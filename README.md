@@ -70,23 +70,25 @@ CASE WHEN
 - SELECT * FROM TABLE EMPLOYEE
  WHERE CONDITION = TRUE
 
-### Key Metrics and Visualizations:The report includes various visual representations, such as charts and graphs, to depict revenue trends, units sold distribution, and comparative performance metrics. These visual tools enhance understanding and facilitate data-driven decision-making
+### Key Metrics and Visualizations:
+#### The report includes various visual representations, such as charts and graphs, to depict revenue trends, units sold distribution, and comparative performance metrics. These visual tools enhance understanding and facilitate data-driven decision-making.
 
 
 ## Visual Analysis & Inferences of the Sales Analysis Report.
+
 ### 1. Revenue by Region 
-### Pivot Table
+#### Pivot Table
 
 
-Region filter for year 2014
-
-
-
-Region filter for year 2015
+### Region filter for year 2014
 
 
 
-Inference:
+### Region filter for year 2015
+
+
+
+### Inference:
 Overall Revenue Trends:
 
 There is a noticeable decline in total revenue across most regions from 2014 to 2015. This suggests potential challenges in sales performance or market conditions affecting revenue generation.
@@ -107,41 +109,39 @@ Focused marketing efforts and customer engagement strategies may be necessary to
 
 
 
-## 2.  Region by Unit Sold 
-pivot table 
+### 2.  Region by Unit Sold 
+#### Pivot table 
 
 
 
-Unit Sold filter for year 2014
+#### Unit Sold filter for year 2014
 
 
 
 
-Unit Sold filter for year 2015
+#### Unit Sold filter for year 2015
 
 
 
-## Inference:
+### Inference:
 Overall Sales Growth: There is a noticeable increase in total units sold from 2014 to 2015. The North East region, while still leading, shows a decrease in the number of units sold compared to the previous year, indicating a potential saturation in that market.
 
-Regional Performance Changes:
-
-North East: In 2014, the North East accounted for 27% of total sales, but this dropped to 26% in 2015. This suggests a slight decline in its dominance.
+### Regional Performance Changes: North East: In 2014, the North East accounted for 27% of total sales, but this dropped to 26% in 2015. This suggests a slight decline in its dominance.
 South West: The South West region has improved its performance, increasing its share from 21% to 22%. This indicates a positive trend and potential for further growth.
 North Central and North West: Both regions continue to show low sales figures, indicating a need for targeted strategies to boost performance in these areas.
 Market Dynamics: The South East and South South regions maintained a steady performance, with the South East holding at 16% and the South South slightly increasing its share. This stability may suggest a consistent demand in these regions.
 
-Sales Distribution: The pie chart reflects a more balanced distribution of sales across regions in 2015 compared to 2014. The North East's slight decline in percentage share indicates that other regions are gaining traction, which could be a sign of shifting consumer preferences or effective marketing strategies in those areas.
+#### Sales Distribution: The pie chart reflects a more balanced distribution of sales across regions in 2015 compared to 2014. The North East's slight decline in percentage share indicates that other regions are gaining traction, which could be a sign of shifting consumer preferences or effective marketing strategies in those areas.
 
-Strategic Implications: The data suggests that while the North East remains a key market, the company should consider investing more resources into the South West and potentially explore opportunities in the North Central and North West regions to enhance overall sales performance.
-
-
+#### Strategic Implications: The data suggests that while the North East remains a key market, the company should consider investing more resources into the South West and potentially explore opportunities in the North Central and North West regions to enhance overall sales performance.
 
 
 
-### Insights and Recommendations:The analysis culminates in actionable insights based on the data. Recommendations may include strategies for optimizing underperforming stores, enhancing marketing efforts in high-growth regions, or adjusting product offerings based on consumer preferences
 
 
-### Conclusion: This sales report analysis serves as a vital tool for stakeholders to make informed decisions regarding sales strategies, inventory management, and market expansion. By leveraging the insights gained from this analysis, organizations can enhance their operational efficiency and drive revenue growth.
+#### Insights and Recommendations: The analysis culminates in actionable insights based on the data. Recommendations may include strategies for optimizing underperforming stores, enhancing marketing efforts in high-growth regions, or adjusting product offerings based on consumer preferences
+
+
+#### Conclusion: This sales report analysis serves as a vital tool for stakeholders to make informed decisions regarding sales strategies, inventory management, and market expansion. By leveraging the insights gained from this analysis, organizations can enhance their operational efficiency and drive revenue growth.
 
 
