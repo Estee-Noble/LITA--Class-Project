@@ -28,18 +28,52 @@
 
 ### Tools Used and Method 
 #### Microsoft Excel [Download Here](https://www.microsoft.com)
--  Data Cleaning
--  Data Analysis
--  DataVisualization
+We carried out the following functions in Excel
 
-#### Data Analysis: The data was analyzed using Microsoft Excel, utilizing Pivot Tables to organize, summarize, and filter the data for easier interpretation.
+-  Data Entering which could be gotten from the front end, typing manually or uploaded
+-  Data loading and inspection
+-  Handling missing variables
+-  Data cleaning and formatting
+-  Data validation: Formulas and Functions such as
+SUMIFS for conditional sum
+VLOOKUP for data rerieval
+TEXT exyractions using LEFT, MID and RIGHT
+Eliminating spaces using TRIM
+Converting cases using LOWER, UPPER and PROPER
+Pivot table for reporting 
+-  Data Analysis: The data was analyzed using Microsoft Excel, utilizing Pivot Tables to organize, summarize, and filter the data for easier interpretation.
 
-#### Data Visualization: Bar Charts were created in Excel to visually represent the key insights.
+-  Data Visualization: Bar Charts were created in Excel to visually represent the key insights.
+
+### SQL- Structured query Language
+This is where we include some basic lines of code or queries during analysis For example;
+
+SELECT statenments for Data retrieval
+
+FORM and JOIN clauses for data combination
+
+WHERE and HAVING for filtering
+
+GROUP BY and ORDER BY for data aggregation
+
+Some SQL command include
+
+SELECT
+INSERT
+UPDATE
+DELETE
+CREATE
+DROP
+ALTER
+TRUNCATE
+CASE WHEN
+- SELECT * FROM TABLE EMPLOYEE
+ WHERE CONDITION = TRUE
 
 ### Key Metrics and Visualizations:The report includes various visual representations, such as charts and graphs, to depict revenue trends, units sold distribution, and comparative performance metrics. These visual tools enhance understanding and facilitate data-driven decision-making
 
 
-## Visual Analysis & Inferences
+## Visual Analysis & Inferences of the Sales Analysis Report.
 ### 1. Revenue by Region 
 ### Pivot Table
 
