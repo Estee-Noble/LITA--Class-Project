@@ -126,7 +126,8 @@ Focused marketing efforts and customer engagement strategies may be necessary to
 ### Inference:
 Overall Sales Growth: There is a noticeable increase in total units sold from 2014 to 2015. The North East region, while still leading, shows a decrease in the number of units sold compared to the previous year, indicating a potential saturation in that market.
 
-### Regional Performance Changes: North East: In 2014, the North East accounted for 27% of total sales, but this dropped to 26% in 2015. This suggests a slight decline in its dominance.
+### Regional Performance Changes: 
+North East: In 2014, the North East accounted for 27% of total sales, but this dropped to 26% in 2015. This suggests a slight decline in its dominance.
 South West: The South West region has improved its performance, increasing its share from 21% to 22%. This indicates a positive trend and potential for further growth.
 North Central and North West: Both regions continue to show low sales figures, indicating a need for targeted strategies to boost performance in these areas.
 Market Dynamics: The South East and South South regions maintained a steady performance, with the South East holding at 16% and the South South slightly increasing its share. This stability may suggest a consistent demand in these regions.
