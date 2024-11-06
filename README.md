@@ -104,8 +104,7 @@ Regional Performance:
 
 #### Revenue Distribution:The bar charts illustrate a clear drop in revenue for 2015 compared to 2014, indicating that while the North East led in 2014, the gap between regions has narrowed, suggesting that overall market conditions may be affecting all regions similarly.
 
-#### Strategic Implications: The decline in revenue across regions indicates a need for a strategic reassessment. The company may need to investigate the causes of this decline, such as changes in consumer behavior, economic factors, or competitive pressures.
-Focused marketing efforts and customer engagement strategies may be necessary to revitalize sales in declining regions, particularly in the North East and South West.
+#### Strategic Implications: The decline in revenue across regions indicates a need for a strategic reassessment. The company may need to investigate the causes of this decline, such as changes in consumer behavior, economic factors, or competitive pressures. Focused marketing efforts and customer engagement strategies may be necessary to revitalize sales in declining regions, particularly in the North East and South West.
 
 
 ### 2.  Region by Unit Sold 
