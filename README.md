@@ -79,6 +79,7 @@ CASE WHEN
 ### 1. Revenue by Region 
 #### Pivot Table
 
+![Annotation pivot revenue by region class](https://github.com/user-attachments/assets/f8701a19-2160-4412-aa0b-24cc4c20ee42)
 
 ### Region filter for year 2014
 
@@ -89,30 +90,25 @@ CASE WHEN
 ![Annotation class year 2015 region](https://github.com/user-attachments/assets/3606d81b-56ca-4368-9216-15c2b7a0ded7)
 
 ### Inference:
-Overall Revenue Trends:
+#### Overall Revenue Trends:
 
 There is a noticeable decline in total revenue across most regions from 2014 to 2015. This suggests potential challenges in sales performance or market conditions affecting revenue generation.
 Regional Performance:
 
-North East: The North East region had the highest revenue in 2014 but shows a significant drop in 2015. This decline may indicate market saturation or increased competition.
-South West: This region also shows a decrease in revenue, although it remains one of the higher-performing areas.
-South South: The revenue for this region appears to have decreased slightly, indicating a potential area of concern.
-South East: Similar to the South South, this region also shows a decline in revenue, which could suggest challenges in maintaining sales.
-North West and North Central: Both regions show lower revenue figures, with North Central consistently trailing behind other regions.
-Revenue Distribution:
-
-The bar charts illustrate a clear drop in revenue for 2015 compared to 2014, indicating that while the North East led in 2014, the gap between regions has narrowed, suggesting that overall market conditions may be affecting all regions similarly.
-Strategic Implications:
-
-The decline in revenue across regions indicates a need for a strategic reassessment. The company may need to investigate the causes of this decline, such as changes in consumer behavior, economic factors, or competitive pressures.
+-  North East: The North East region had the highest revenue in 2014 but shows a significant drop in 2015. This decline may indicate market saturation or increased competition.
+-  South West: This region also shows a decrease in revenue, although it remains one of the higher-performing areas.
+-  South South: The revenue for this region appears to have decreased slightly, indicating a potential area of concern.
+-  South East: Similar to the South South, this region also shows a decline in revenue, which could suggest challenges in maintaining sales.
+-  North West and North Central: Both regions show lower revenue figures, with North Central consistently trailing behind other regions.
+-  Revenue Distribution:The bar charts illustrate a clear drop in revenue for 2015 compared to 2014, indicating that while the North East led in 2014, the gap between regions has narrowed, suggesting that overall market conditions may be affecting all regions similarly.
+-  Strategic Implications: The decline in revenue across regions indicates a need for a strategic reassessment. The company may need to investigate the causes of this decline, such as changes in consumer behavior, economic factors, or competitive pressures.
 Focused marketing efforts and customer engagement strategies may be necessary to revitalize sales in declining regions, particularly in the North East and South West.
-
 
 
 ### 2.  Region by Unit Sold 
 #### Pivot table 
 
-
+![Annotation pivot class region by unit sold](https://github.com/user-attachments/assets/a48c5905-2302-477e-acb2-423073905210)
 
 #### Unit Sold filter for year 2014
 
@@ -127,17 +123,14 @@ Focused marketing efforts and customer engagement strategies may be necessary to
 Overall Sales Growth: There is a noticeable increase in total units sold from 2014 to 2015. The North East region, while still leading, shows a decrease in the number of units sold compared to the previous year, indicating a potential saturation in that market.
 
 ### Regional Performance Changes: 
-North East: In 2014, the North East accounted for 27% of total sales, but this dropped to 26% in 2015. This suggests a slight decline in its dominance.
-South West: The South West region has improved its performance, increasing its share from 21% to 22%. This indicates a positive trend and potential for further growth.
-North Central and North West: Both regions continue to show low sales figures, indicating a need for targeted strategies to boost performance in these areas.
-Market Dynamics: The South East and South South regions maintained a steady performance, with the South East holding at 16% and the South South slightly increasing its share. This stability may suggest a consistent demand in these regions.
+-  North East: In 2014, the North East accounted for 27% of total sales, but this dropped to 26% in 2015. This suggests a slight decline in its dominance.
+-  South West: The South West region has improved its performance, increasing its share from 21% to 22%. This indicates a positive trend and potential for further growth.
+-  North Central and North West: Both regions continue to show low sales figures, indicating a need for targeted strategies to boost performance in these areas.
+-  Market Dynamics: The South East and South South regions maintained a steady performance, with the South East holding at 16% and the South South slightly increasing its share. This stability may suggest a consistent demand in these regions.
 
 #### Sales Distribution: The pie chart reflects a more balanced distribution of sales across regions in 2015 compared to 2014. The North East's slight decline in percentage share indicates that other regions are gaining traction, which could be a sign of shifting consumer preferences or effective marketing strategies in those areas.
 
 #### Strategic Implications: The data suggests that while the North East remains a key market, the company should consider investing more resources into the South West and potentially explore opportunities in the North Central and North West regions to enhance overall sales performance.
-
-
-
 
 
 #### Insights and Recommendations: The analysis culminates in actionable insights based on the data. Recommendations may include strategies for optimizing underperforming stores, enhancing marketing efforts in high-growth regions, or adjusting product offerings based on consumer preferences
