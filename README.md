@@ -121,7 +121,7 @@ Focused marketing efforts and customer engagement strategies may be necessary to
 
 #### Unit Sold filter for year 2015
 
-
+![Annotation class year 2015 unitsold](https://github.com/user-attachments/assets/3f7d3775-c08b-4bbe-962f-b31e5d53406b)
 
 ### Inference:
 Overall Sales Growth: There is a noticeable increase in total units sold from 2014 to 2015. The North East region, while still leading, shows a decrease in the number of units sold compared to the previous year, indicating a potential saturation in that market.
