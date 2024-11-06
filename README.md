@@ -82,11 +82,11 @@ CASE WHEN
 
 ### Region filter for year 2014
 
-
+![Annotation class year 2014 region](https://github.com/user-attachments/assets/6d53bc11-67d0-4f63-a58d-b33b68f7603c)
 
 ### Region filter for year 2015
 
-
+![Annotation class year 2015 region](https://github.com/user-attachments/assets/3606d81b-56ca-4368-9216-15c2b7a0ded7)
 
 ### Inference:
 Overall Revenue Trends:
@@ -116,7 +116,7 @@ Focused marketing efforts and customer engagement strategies may be necessary to
 
 #### Unit Sold filter for year 2014
 
-
+![Annotation class year 2014 unitsold](https://github.com/user-attachments/assets/71b73279-f2f8-4d20-bcf4-9d60d77e7185)
 
 
 #### Unit Sold filter for year 2015
